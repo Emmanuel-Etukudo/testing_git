@@ -1,1 +1,2 @@
-This is our second file
+This is our second file and I am making second change in a series of commits
+I am changing something here too
